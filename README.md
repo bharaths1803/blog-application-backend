@@ -4,4 +4,15 @@
 4. Now run "node index.js"
 5. Use postman and try sending different types of requests to the server
 6. Make sure the directory structure is
-         
+   root >
+         routes >
+                 user.js
+                 blogs.js
+         middleware >
+                 user.js
+         index.js
+         .env.example
+         .env
+         db.js
+         config.js
+         package.json
